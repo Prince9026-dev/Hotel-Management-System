@@ -1,0 +1,7 @@
+101 single 400 1
+102 double 750 1
+103 suite 1500 0
+104 double 750 1
+105 double 750 1
+100 double 800 1
+111 single 700 1
